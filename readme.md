@@ -1,5 +1,7 @@
 python 3.9
 
-pip install -r requirements.txt
+- run:
+    pip install -r requirements.txt
 
-python app.py
+- run:
+    python app.py
